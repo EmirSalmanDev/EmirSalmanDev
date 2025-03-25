@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning ReactJS and NodeJS<br>🎯 My goal is to become a Full-Stack Developer<br>📫 How to reach me: emirsalman.info@gmail.com</p>
+<p align="left">📚 I'm currently learning ReactJS and NodeJS<br>🎯 My goal is to become a Full-Stack Developer with a focus on AI<br>📫 How to reach me: emirsalman.info@gmail.com</p>
 
 ###
 
