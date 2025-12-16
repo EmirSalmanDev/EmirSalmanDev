@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">📚 I'm currently learning NodeJS<br>🎯 My goal is to become a Full-Stack Developer with a focus on AI<br>📫 How to reach me: emirsalman.info@gmail.com</p>
+<p align="left">
+  📚 <strong>Currently:</strong> Expanding my Full-Stack skills with DevOps practices.<br>
+  🌱 <strong>Learning:</strong> Deepening my knowledge in Machine Learning & AI pipelines.<br>
+  🎯 <strong>Goal:</strong> Bridging the gap between Software Engineering and AI as an MLOps Engineer.<br>
+  📫 <strong>Contact:</strong> emirsalman.info@gmail.com
+</p>
 
 ###
 
