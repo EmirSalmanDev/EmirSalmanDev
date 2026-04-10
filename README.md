@@ -82,3 +82,15 @@
 </div>
 
 ###
+
+<h2 align="left">GitHub Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmirSalmanDev&show_icons=true&theme=transparent&rank_icon=github&cache_seconds=86400" height="150" alt="EmirSalmanDev's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirSalmanDev&layout=compact&theme=transparent&cache_seconds=86400" height="150" alt="EmirSalmanDev's Top Languages" />
+</div>
+
+###
