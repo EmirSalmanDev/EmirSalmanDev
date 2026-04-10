@@ -86,11 +86,16 @@
 <h2 align="left">GitHub Stats</h2>
 
 ###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmirSalmanDev&show_icons=true&theme=transparent&rank_icon=github&cache_seconds=86400" height="160" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=EmirSalmanDev&theme=transparent&hide_border=true" height="160" />
+</div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmirSalmanDev&show_icons=true&theme=transparent&rank_icon=github&cache_seconds=86400" height="150" alt="EmirSalmanDev's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirSalmanDev&layout=compact&theme=transparent&cache_seconds=86400" height="150" alt="EmirSalmanDev's Top Languages" />
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirSalmanDev&layout=compact&theme=transparent&cache_seconds=86400" height="160" />
 </div>
 
 ###
