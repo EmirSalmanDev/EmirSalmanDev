@@ -87,7 +87,7 @@
 
 ###
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=EmirSalmanDev&theme=transparent&hide_border=true" height="200" />
+  <img src="https://streak-stats.demolab.com?user=EmirSalmanDev&theme=transparent&hide_border=true&cache_bust=1" height="200" />
 </div>
 
 ###
