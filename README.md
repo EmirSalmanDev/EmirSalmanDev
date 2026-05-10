@@ -90,4 +90,8 @@
   <img src="https://streak-stats.demolab.com?user=EmirSalmanDev&theme=transparent&hide_border=true&cache_bust=1" height="200" />
 </div>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirSalmanDev&layout=compact&theme=transparent&hide_border=true" alt="Languages" />
+</div>
+
 ###
